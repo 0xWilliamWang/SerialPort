@@ -24,5 +24,4 @@ DISTFILES += \
     Readme.md
 RC_FILE += app.rc
 
-RESOURCES += \
-    resource.qrc
+RESOURCES +=
