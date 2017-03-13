@@ -7,6 +7,5 @@
 # 涉及的关键技术
 1. Qt gui、serialport模块的使用
 
-# 截图
-
+# 程序运行结果
 <img src = "http://o8qysxar3.bkt.clouddn.com/SerialPort_0.png">
